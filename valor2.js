@@ -6,6 +6,6 @@ if (valor > 10 && valor <20) { //operador and
 
 let valor2 = 7
 
-if(valor > 10 || valor < 20) { // operador or 
+if(valor > 10 || valor < 20) { // operador or   
     console.log('este valor é valido')
 }
